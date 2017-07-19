@@ -1,6 +1,11 @@
 # slides
 Presentation slides of projects and papers, MT/NLP/ML/DL
 
+\< Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking >
+
+=> [ Slides: https://drive.google.com/open?id=0BygVShQKVPZDVjJody11YjJDQkU ]
+
+
 \< Quality Estimation for Machine Translation Using the Joint Method of Evaluation Criteria and Statistical Modeling >
 
 => [ https://www.slideshare.net/AaronHanLiFeng/quality-estimation-for-machine-translation-using-the-joint-method-of-evaluation-criteria-and-statistical-modeling ]
