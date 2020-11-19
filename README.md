@@ -14,6 +14,18 @@ https://www2.slideshare.net/AaronHanLiFeng/apply-chinese-radicals-into-neural-ma
 
 => [ Slides: https://drive.google.com/open?id=0BygVShQKVPZDVjJody11YjJDQkU ]
 
+\< PubhD talk: MT serving the society>
+
+=> [ https://www.slideshare.net/AaronHanLiFeng/pubhd-talk-mt-serving-the-society]
+
+\< SIGHAN- Chinese Named Entity Recognition with Graph-based Semi-supervised Learning Model>
+
+=> [ https://www.academia.edu/30804241/SIAHAN2015_CNER_PPT_copy_5]
+
+\< PPT-CCL: A Universal Phrase Tagset for Multilingual Treebanks>
+
+=> [ https://www.slideshare.net/AaronHanLiFeng/pptccl-a-universal-phrase-tagset-for-multilingual-treebanks]
+
 
 \< Quality Estimation for Machine Translation Using the Joint Method of Evaluation Criteria and Statistical Modeling >
 
@@ -25,15 +37,6 @@ https://www2.slideshare.net/AaronHanLiFeng/apply-chinese-radicals-into-neural-ma
 => [ https://www.slideshare.net/AaronHanLiFeng/lepor-an-augmented-machine-translation-evaluation-metric-thesis-ppt]
 
 
-\< PPT-CCL: A Universal Phrase Tagset for Multilingual Treebanks>
-
-=> [ https://www.slideshare.net/AaronHanLiFeng/pptccl-a-universal-phrase-tagset-for-multilingual-treebanks]
-
-
-\< PubhD talk: MT serving the society>
-
-=> [ https://www.slideshare.net/AaronHanLiFeng/pubhd-talk-mt-serving-the-society]
-
 
 \< CUHK intern PPT. Machine Translation Evaluation: Methods and Tools>
 
@@ -44,10 +47,8 @@ https://www2.slideshare.net/AaronHanLiFeng/apply-chinese-radicals-into-neural-ma
 
 => [https://www.slideshare.net/AaronHanLiFeng/chinese-named-entity-recognition-presentationaaron-li-feng-han201306]
 
-
-\< SIGHAN- Chinese Named Entity Recognition with Graph-based Semi-supervised Learning Model>
-
-=> [ https://www.academia.edu/30804241/SIAHAN2015_CNER_PPT_copy_5]
+LEPOR@COLING2012:
+https://www2.slideshare.net/AaronHanLiFeng/summary-of-coling-2012-international-computational-linguistics-conference 
 
 
 
