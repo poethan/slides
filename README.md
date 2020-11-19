@@ -1,6 +1,15 @@
 # slides
 Presentation slides of projects and papers, MT/NLP/ML/DL
 
+AlphaMWE
+https://www2.slideshare.net/AaronHanLiFeng/alphamwe-construction-of-multilingual-parallel-corpora-with-mwe-annotations-ppt4ws
+
+MultiMWE
+https://www2.slideshare.net/AaronHanLiFeng/multimwe-building-a-multilingual-multiword-expression-mwe-parallel-corpora 
+
+Radical4MT: 
+https://www2.slideshare.net/AaronHanLiFeng/apply-chinese-radicals-into-neural-machine-translation-deeper-than-character-level 
+
 \< Detection of Verbal Multi-Word Expressions via Conditional Random Fields with Syntactic Dependency Features and Semantic Re-Ranking >
 
 => [ Slides: https://drive.google.com/open?id=0BygVShQKVPZDVjJody11YjJDQkU ]
